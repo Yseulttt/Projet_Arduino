@@ -1,6 +1,7 @@
 Planning des séances
 ==
-Notre planning des séances sera réparti sur 8 séances. 
+Notre planning des séances sera réparti sur 8 séances.  
+
 1ère séance : 
 --
 * Schématisation/Maquette du projet 
@@ -14,4 +15,14 @@ Notre planning des séances sera réparti sur 8 séances.
 
 3ème séance :
 --
-*
+* Finalisation du code
+* Montage du circuit arduino
+* Début des manipulations et calibrage avec le laser infrarouge
+
+4ème séance :
+--
+* Decoupe des pieces
+* Debut de l'assemblage des pièces
+
+
+Nous préférons aviser sur le moment pour le programme des séances au delà de la quatrième séance, en fonction de notre avancée. Nous le complèterons donc au fur et à mesure 
