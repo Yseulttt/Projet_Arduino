@@ -2,6 +2,30 @@ Liste du matériel
 ##
 
 Pour notre projet, nous aurons besoin de : 
-* 16x2 LCD Display Module : un écran
-(site à voir : https://www.aranacorp.com/fr/gerez-un-ecran-lcd-16x2-avec-arduino/)
-*
+
+Pour la partie arduino : 
+--
+* 16x2 LCD Display Module ID : un écran LCD de 16 par 02, nous permettant d'afficher le compteur. 
+(site à voir : https://plaisirarduino.fr/afficheur-lcd-comment-lexploiter/)
+
+* 8 Capteurs infrarouge : détectant le passage d'une pièce dans son caisson.
+
+* Encodeur rotatif : permet de selectionner le rendu souhaité
+
+* Breadboard
+
+* I2C Module si notre carte UNO n'est pas compatible avec le LDC.
+
+* fils connecteurs 
+
+Pour la partie carcasse : 
+--
+* bois 
+
+* platisque pour les compartiments, fait à l'imprimente 3D
+
+*cheville/vis
+
+*charnière
+
+*equerre d'assemblage
