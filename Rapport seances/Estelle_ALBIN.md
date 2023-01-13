@@ -13,5 +13,10 @@ Séance du 6 janvier :
 Séance du 9 janvier :
 --
 * Résolution du problème de la rampe, voir schema. Finalement nous ferons une rampe en bois qui sera inclinée puis conduira les pieces dans un tube noir (en impression 3D). Au bout de ce tube se trouvera un capteur. 
-* Finalisation de la modelisation de la boite en bois sur Inkscape. 
-* Modélisation de la piece sur le tube sur onshape. 
+
+![IMG_0380](https://user-images.githubusercontent.com/120583392/212429239-bf0e3eee-d318-492f-9f11-27bbcbda04cb.jpg)
+
+* Finalisation de la modelisation de la boite en bois sur Inkscape. Update : nous allons changer la dimension de la boite, donc à refaire. 
+* Modélisation de la piece sur le tube sur onshape (en cours). ![Capture d’écran 2023-01-13 à 23 22 08](https://user-images.githubusercontent.com/120583392/212430293-cef8c609-5273-43eb-91a7-5a26a07e05ac.png)
+
+
