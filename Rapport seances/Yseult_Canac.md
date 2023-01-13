@@ -15,3 +15,4 @@ Séance du 13 janvier :
 --
 * codage de l’écran lcd qui désormais affiche : « Votre cagnotte : » + la cagnotte.
 * insertion du micro servo moteur au code
+Ci-joint l'avancée du code : [Code_Compteuse_Piece.ino.zip](https://github.com/Yseulttt/Projet_Arduino/files/10415652/Code_Compteuse_Piece.ino.zip)
