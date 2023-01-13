@@ -10,3 +10,8 @@ Séance du 6 janvier :
 --
 * Carte mentale décrivant les fonctionalités de la compteuse 
 * Recherche du code sur le composant écran LSD et intégration dans le code
+
+Séance du 13 janvier : 
+--
+* codage de l’écran lcd qui désormais affiche : « Votre cagnotte : » + la cagnotte.
+* insertion du micro servo moteur au code
