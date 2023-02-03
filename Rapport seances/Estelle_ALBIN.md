@@ -24,3 +24,9 @@ Séance du 20 janvier :
 * Finalement, j'ai modifié les dimensions de la boite en bois sur Inskape. Ci-joint les nouveaux graphiques de la boite. https://www.festi.info/boxes.py/ClosedBox?FingerJoint_angle=90.0&FingerJoint_style=rectangular&FingerJoint_surroundingspaces=2.0&FingerJoint_bottom_lip=0.0&FingerJoint_edge_width=1.0&FingerJoint_extra_length=0.0&FingerJoint_finger=2.0&FingerJoint_play=0.0&FingerJoint_space=2.0&FingerJoint_width=1.0&x=210&y=350&h=268&outside=0&outside=1&thickness=3.0&format=svg&tabs=0.0&debug=0&labels=0&labels=1&reference=100&inner_corners=loop&burn=0.1&render=1
 * Finalisation des 5 tubes des pièces sur onshape. On a envoyé les pièces en 3D et les plaquettes à imprimer. 
 
+Séance du 3 février :
+--
+* Découpe et montage de la boîte en bois
+* Modéliation et decoupe de la rampe pour les pièces 
+![Capture d’écran 2023-02-03 à 14 01 27](https://user-images.githubusercontent.com/120583392/216609863-17f693c8-3f41-4bd6-af26-fb53bae4942e.png)
+* Impression 3D des tubes, or l'épaisseur du tube est trop fines et le diametre du tube (du aux incertitudes de l'impression 3D) est trop petite. Pour cela j'ai remodélisé sur Onshape les 5 tubes Onshapes, et je les ai fait imprimer. 
