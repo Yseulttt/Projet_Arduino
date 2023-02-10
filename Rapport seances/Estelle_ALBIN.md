@@ -40,4 +40,5 @@ Séance du 10 fevrier :
 * La rampe elle aussi a des soucis de dimensions. Certains trous de la rampe sont trop grand 
 
 * Modelisation et impression d'un cache pour l'écran lcd 
-* Conception d'un moyen pour faire tenir les tubes. Finalement, nous allons devoir les refaite pour mieux les stabiliser. 
+* Conception d'un moyen pour faire tenir les tubes et la rampe. Finalement, nous allons devoir 
+ refaite les tubes pour mieux les stabiliser. 
