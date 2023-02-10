@@ -32,3 +32,12 @@ Séance du 3 février :
 * Modéliation et decoupe de la rampe pour les pièces. Cepedant la distance entre les troues et le rebord est trop grande, ce qui fait tomber toutes les pièces dans le premier trou, je vais recouper la rampe à la prochaine séance pour que les pièces coulissent mieux le long de la rampe.
 ![Capture d’écran 2023-02-03 à 14 01 27](https://user-images.githubusercontent.com/120583392/216609863-17f693c8-3f41-4bd6-af26-fb53bae4942e.png)
 * Impression 3D des 5 tubes, or l'épaisseur du tube est trop fines et le diametre du tube (du aux incertitudes de l'impression 3D) est trop petite. Pour cela j'ai remodélisé sur Onshape les 5 tubes Onshapes, et je les ai fait imprimer. 
+
+Séance du 10 fevrier : 
+-- 
+* Les 5 tubes à cause de l'impression sont trop petit, donx limage des tubes. 
+
+* La rampe elle aussi a des soucis de dimensions. Certains trous de la rampe sont trop grand 
+
+* Modelisation et impression d'un cache pour l'écran lcd 
+* Conception d'un moyen pour faire tenir les tubes. Finalement, nous allons devoir les refaite pour mieux les stabiliser. 
