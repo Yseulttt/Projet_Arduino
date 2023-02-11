@@ -19,7 +19,7 @@ Ci-joint l'avancée du code : [Code_Compteuse_Piece.ino.zip](https://github.com/
 
 Séance du 4 février :
 --
-* Codage de l'encodeur rotatif : On peut s'en servir pour choisir le montant que l'on souhaite récupérer. Le chiffre en question augment de 0.10€ à chaque impulsion et se bloque a 5€ qui est le montant maximum. Ensuite, en appuyant sur l'encodeur la valeur se bloque et est stockée dans une variable, qui sera utilisée dans la suite du code. 
+* Codage de l'encodeur rotatif : On peut s'en servir pour choisir le montant que l'on souhaite récupérer. Le chiffre en question augmente de 0.10€ à chaque impulsion et arrête d'augmenter à 5€, le montant maximal, et arrête de diminuer à 0€, le montant minimal. Ensuite, en appuyant sur l'encodeur la valeur se bloque et est stockée dans une variable, qui sera utilisée dans la suite du code. 
 * Complément du code de l'écran lcd (le montant a choisir s'affiche sur l'écran).
 
 Séance du 11 fevrier :
