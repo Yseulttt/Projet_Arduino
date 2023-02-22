@@ -41,7 +41,8 @@ Séance du 10 fevrier :
 * La rampe elle aussi a des soucis de dimensions. Certains trous de la rampe sont trop grand ![Capture d’écran 2023-02-22 à 18 15 12](https://user-images.githubusercontent.com/120583392/220705064-cba35e31-bc71-4538-90cc-9633a6e962cc.png)
 
 
-* Modelisation et impression d'un cache pour l'écran lcd ![Capture d’écran 2023-02-22 à 18 11 57](https://user-images.githubusercontent.com/120583392/220704374-55191274-8c67-4ea3-a754-c7abdc90a8ed.png)
+* Modelisation et impression d'un cache pour l'écran lcd !
+[Capture d’écran 2023-02-22 à 18 11 57](https://user-images.githubusercontent.com/120583392/220704374-55191274-8c67-4ea3-a754-c7abdc90a8ed.png)
 
 
 * Conception d'un moyen pour faire tenir les tubes et la rampe. Finalement, nous allons devoir 
