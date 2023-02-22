@@ -42,3 +42,19 @@ Séance du 10 fevrier :
 * Modelisation et impression d'un cache pour l'écran lcd 
 * Conception d'un moyen pour faire tenir les tubes et la rampe. Finalement, nous allons devoir 
  refaite les tubes pour mieux les stabiliser. 
+ 
+ Séance du 17&18 février : 
+ --
+ * Modélisation des nouveaux tubes sur Onshape. Pour que ceux-ci tiennent, ils seront fixer à une plaque que l'on pourra visser. De plus les capteurs seront intégrer dans le tube. Le problème dans la conception est l'angle d'inclinaison que je n'arrive pas modéliser sur Onshape malgré y avoir passé 3h dessus. Nous avons vu avec les chargés de TD que cela n'est pas possible. L'alternative serait de le faire manuellement, en limant les tubes nous meme pour créer cette inclinaison.
+ * De plus, ceux ci possèderont des trous pour laisser passer les capteur infrarouges.![Capture d’écran 2023-02-22 à 17 50 20](https://user-images.githubusercontent.com/120583392/220699258-78f1ffdb-159c-473d-bfd1-8c07c5bceb79.png). 
+ * Pour ce qui concerne la longueur des tubes, vu qu'ils sont inclinés, ils n'ont pas tous la même dimension. Pour connaître leur exacte longueur, j'ai modélisé la maquette sur Onshape. 
+
+ * Modélisation de la nouvelle rampe. Celle ci desormais possède des trous de la même taille que l'intérieur des tubes, et elle sera posait directement sur les tubes. ![Capture d’écran 2023-02-22 à 17 48 33](https://user-images.githubusercontent.com/120583392/220698302-0b6a0a4c-8d3b-4201-a011-135f9da3e9d4.png)
+
+* Modélisation du "faux murs" auxquels on fixera les tubes. ![Capture d’écran 2023-02-22 à 17 54 35](https://user-images.githubusercontent.com/120583392/220699793-fe735697-774a-4d8e-afd6-ca2303e55ba3.png)
+* (en cours) Modélisation du support sur lesquels les tubes seront posé. 
+
+Je vous joins mon brouillon, cela vous permettra peut de mieux comprendre mes travaux. 
+[Yseult .pdf](https://github.com/Yseulttt/Projet_Arduino/files/10806491/Yseult.pdf)
+
+
