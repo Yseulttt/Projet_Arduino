@@ -50,7 +50,7 @@ Séance du 10 fevrier :
  
  Séance du 17&18 février : 
  --
- * Modélisation des nouveaux tubes sur Onshape. Pour que ceux-ci tiennent, ils seront fixer à une plaque que l'on pourra visser. De plus les capteurs seront intégrer dans le tube. Le problème dans la conception est l'angle d'inclinaison que je n'arrive pas modéliser sur Onshape malgré y avoir passé 3h dessus. Nous avons vu avec les chargés de TD que cela n'est pas possible. L'alternative serait de le faire manuellement, en limant les tubes nous meme pour créer cette inclinaison.
+ * Modélisation des nouveaux tubes sur Onshape. Pour que ceux-ci tiennent, ils seront fixer à un " faux mur" où l'on pourra les visser. Le problème dans la conception des tubes est l'angle d'inclinaison que je n'arrive pas modéliser sur Onshape malgré y avoir passé 3h dessus. Nous avons vu avec les chargés de TD que cela n'est pas possible. L'alternative serait de le faire manuellement, en limant les tubes nous meme pour créer cette inclinaison.
  * De plus, ceux ci possèderont des trous pour laisser passer les capteur infrarouges.![Capture d’écran 2023-02-22 à 17 50 20](https://user-images.githubusercontent.com/120583392/220699258-78f1ffdb-159c-473d-bfd1-8c07c5bceb79.png). 
  * Pour ce qui concerne la longueur des tubes, vu qu'ils sont inclinés, ils n'ont pas tous la même dimension. Pour connaître leur exacte longueur, j'ai modélisé la maquette sur Onshape. ![Capture d’écran 2023-02-22 à 18 08 35](https://user-images.githubusercontent.com/120583392/220703643-3e8220c9-487c-4e22-9b0b-948ce7291b43.png)
 
@@ -60,7 +60,7 @@ Séance du 10 fevrier :
 * Modélisation du "faux murs" auxquels on fixera les tubes. ![Capture d’écran 2023-02-22 à 17 54 35](https://user-images.githubusercontent.com/120583392/220699793-fe735697-774a-4d8e-afd6-ca2303e55ba3.png)
 * (en cours) Modélisation du support sur lesquels les tubes seront posé. 
 
-Je vous joins mon brouillon, cela vous permettra peut de mieux comprendre mes travaux. 
+Je vous joins mon brouillon, cela vous permettra peut être de mieux comprendre mes travaux. 
 
 ![Yseult -3](https://user-images.githubusercontent.com/120583392/220703397-e5367e5d-5efd-4358-ae39-744975c4b4e2.jpg)
 
