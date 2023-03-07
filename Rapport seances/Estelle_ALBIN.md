@@ -66,4 +66,14 @@ Je vous joins mon brouillon, cela vous permettra peut être de mieux comprendre 
 
 Séance 2&3 mars :
 --
-*
+Cette séance-ci fut consacrer essentiellement à la finalisation de la maquette, et à l'assemblage
+
+* Finalement nous avons modifier le support de la rampe, en formant une inclinaison. Dans celle-ci, on a effectué des découpes : pour bien faire passer les capteurs IR et les microcerveaux moteurs. Voici le rendu une fois l'impression et le montage.
+* Modélisation et impression des supports des tubes et de la rampe finale. ![Uploading IMG_2789.jpeg…]()
+
+* Découpe de la nouvelle rampe. Problème : je n'avais pas pris en compte le faux mur, donc il fallait faire les trous plus loin, et certains trous étaient encore trop grands, laissant passer des pièces non désirées. De plus la rampe sera inclinée, donc on a collé un petit rebord à la rampe, le long de laquelle la pièce coulissera. 
+* Réception des tubes, que l'on a limé et fixé au support de la rampe. ![IMG_2787](https://user-images.githubusercontent.com/120583392/223559540-3986319c-f9d7-43eb-8915-1459b0a44fcc.jpeg)
+
+* Fixation des batonnets au tiges des mirocerveaux moteurs, pour mieux passer les pièces. Fixation aussi des microcerveaux moteurs à la colle forte. ![IMG_2788](https://user-images.githubusercontent.com/120583392/223559465-35de0a4a-e18c-4898-9025-8025a095b579.jpeg)
+
+
