@@ -76,4 +76,6 @@ Cette séance-ci fut consacrer essentiellement à la finalisation de la maquette
 
 * Fixation des batonnets au tiges des mirocerveaux moteurs, pour mieux passer les pièces. Fixation aussi des microcerveaux moteurs à la colle forte. ![IMG_2788](https://user-images.githubusercontent.com/120583392/223559465-35de0a4a-e18c-4898-9025-8025a095b579.jpeg)
 
+* Decoupe sur la face de la boite d'un espace pour l'écran LCD et pour l'encodeur rotatif
+
 
