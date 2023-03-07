@@ -64,3 +64,6 @@ Je vous joins mon brouillon, cela vous permettra peut être de mieux comprendre 
 
 ![Yseult -3](https://user-images.githubusercontent.com/120583392/220703397-e5367e5d-5efd-4358-ae39-744975c4b4e2.jpg)
 
+Séance 2&3 mars :
+--
+*
