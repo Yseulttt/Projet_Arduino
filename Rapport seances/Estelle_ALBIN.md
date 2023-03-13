@@ -78,4 +78,12 @@ Cette séance-ci fut consacrer essentiellement à la finalisation de la maquette
 
 * Decoupe sur la face de la boite d'un espace pour l'écran LCD et pour l'encodeur rotatif
 
-
+Durant la semaine précédant le projet : 
+--
+* Découpe d'un rebord que l'on collerale le long de la rampe pour mieux les guider
+* Dans le support de la rampe, nous avons découpé un trou pour laisser passer les microcerveau moteur
+* Fixation des microcerveaux dans le support de la rampe, des capteurs infrarouges que l'on a visser sur des petits bout de bois, ceux-ci on les a colle au mur du support de la rampe (voir la photo joint pour mieux comprendre) 
+* Collage de toutes les pièces de bois entre elles
+* Test du fonctionnement et callibration des micro cerveaux et des capteurs infrarouge
+* On a visser l'écran lcd et l'encodeur rotatif à la face avant de la boite 
+* Finalement : fermeture de la boite (et bien sur séance peinture pour notre tirelire). 
