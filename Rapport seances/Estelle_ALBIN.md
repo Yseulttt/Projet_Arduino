@@ -83,7 +83,15 @@ Durant la semaine précédant le projet :
 * Découpe d'un rebord que l'on collerale le long de la rampe pour mieux les guider
 * Dans le support de la rampe, nous avons découpé un trou pour laisser passer les microcerveau moteur
 * Fixation des microcerveaux dans le support de la rampe, des capteurs infrarouges que l'on a visser sur des petits bout de bois, ceux-ci on les a colle au mur du support de la rampe (voir la photo joint pour mieux comprendre) 
+![IMG_2792](https://user-images.githubusercontent.com/120583392/225603519-060624a3-cd97-431e-b931-6da5eaa72036.jpeg)
+
 * Collage de toutes les pièces de bois entre elles
+![IMG_2798](https://user-images.githubusercontent.com/120583392/225603743-46e31ade-2fb3-4b3c-9cce-90c83a592ceb.jpeg)
+
 * Test du fonctionnement et callibration des micro cerveaux et des capteurs infrarouge
 * On a visser l'écran lcd et l'encodeur rotatif à la face avant de la boite 
-* Finalement : fermeture de la boite (et bien sur séance peinture pour notre tirelire). 
+* Finalement : fermeture de la boite
+![IMG_2816](https://user-images.githubusercontent.com/120583392/225603386-c1e9dff7-7639-46f8-9dc2-3b171b8dc2a4.jpeg)
+
+![IMG_2808](https://user-images.githubusercontent.com/120583392/225603333-b6d18641-ec6c-40fb-8736-3c712bf9d37c.jpeg)
+ (et bien sur séance peinture pour notre tirelire). 
