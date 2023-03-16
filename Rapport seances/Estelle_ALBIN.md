@@ -93,5 +93,6 @@ Durant la semaine précédant le projet :
 * Finalement : fermeture de la boite
 ![IMG_2816](https://user-images.githubusercontent.com/120583392/225603386-c1e9dff7-7639-46f8-9dc2-3b171b8dc2a4.jpeg)
 
+* (et bien sur séance peinture pour notre tirelire). 
 ![IMG_2808](https://user-images.githubusercontent.com/120583392/225603333-b6d18641-ec6c-40fb-8736-3c712bf9d37c.jpeg)
- (et bien sur séance peinture pour notre tirelire). 
+
